@@ -7,7 +7,7 @@ The architecture follows a **modern Lakehouse pattern** using **Databricks, Delt
 
 This use case aligns with:
 - **Energy & Utilities** providers analysing real-time pricing and demand
-- **Public sector organisations (e.g. HMLR)** linking property energy performance to valuation and sustainability metrics
+- **Public sector organisations ** linking property energy performance to valuation and sustainability metrics
 - **Carbon reporting & net-zero initiatives**
 
 ---

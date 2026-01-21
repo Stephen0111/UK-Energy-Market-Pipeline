@@ -75,7 +75,7 @@ This use case aligns with:
 - **Silver**: Cleaned, deduplicated, validated datasets with enforced constraints
 - **Gold**: Pre-aggregated business metrics optimised for analytics & BI
 
-### Advanced PySpark Transformations
+###  PySpark Transformations
 - Window functions for:
   - Rolling 7-day and 30-day price averages
   - Peak vs off-peak consumption trends
@@ -163,7 +163,7 @@ Optimized using:
 - Automatic retries and failure alerts
 - Cost-efficient single-node ingestion clusters
 
-### Apache Airflow (Advanced Dependencies)
+### Apache Airflow (Dependencies)
 - Monthly reconciliation DAG:
   - Waits for all daily jobs to complete
   - Produces billing-period summaries
